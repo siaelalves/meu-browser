@@ -1,0 +1,8 @@
+D:\Projetos\C#\Ativos\BRW\bin\Debug\BRW.exe
+D:\Projetos\C#\Ativos\BRW\bin\Debug\BRW.pdb
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.BRW.resources
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.Properties.Resources.resources
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.csproj.GenerateResource.Cache
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.exe
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.pdb
+D:\Projetos\C#\Ativos\BRW\obj\x86\Debug\BRW.csprojResolveAssemblyReference.cache

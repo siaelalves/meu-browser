@@ -1,0 +1,7 @@
+D:\Projetos\C#\Ativos\BRW\bin\Release\BRW.exe
+D:\Projetos\C#\Ativos\BRW\bin\Release\BRW.pdb
+D:\Projetos\C#\Ativos\BRW\obj\x86\Release\BRW.BRW.resources
+D:\Projetos\C#\Ativos\BRW\obj\x86\Release\BRW.Properties.Resources.resources
+D:\Projetos\C#\Ativos\BRW\obj\x86\Release\BRW.csproj.GenerateResource.Cache
+D:\Projetos\C#\Ativos\BRW\obj\x86\Release\BRW.exe
+D:\Projetos\C#\Ativos\BRW\obj\x86\Release\BRW.pdb
